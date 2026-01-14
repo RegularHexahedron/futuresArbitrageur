@@ -1,4 +1,4 @@
-# Futures Arbitrager
+# Futures Arbitrageur
 
 ## Overview
 
