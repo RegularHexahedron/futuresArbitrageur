@@ -20,6 +20,7 @@ The bot listens to real-time futures order books, computes implicit interest rat
   ```bash
   python main.py
   ```
+5. To end the run, press ```Ctrl+C``` or kill the terminal.
 
 ## Approach
 
